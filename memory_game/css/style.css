@@ -97,6 +97,7 @@ footer {
 .message {
     font-family: Raleway;
     float: right;
+    padding-right: 2em;
 }
 
 .name {
